@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'lunaregular';
+    src: url('./fonts/luna-webfont.woff2') format('woff2'),
+         url('./fonts/luna-webfont.woff') format('woff'),
+         url('./fonts/luna.ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+html{
+	font-family: 'arial';
+	font-size: 16px;
+}
